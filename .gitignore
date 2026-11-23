@@ -1,0 +1,40 @@
+# Rust / Cargo build artifacts
+/target/
+**/*.rs.bk
+*.pdb
+
+# Compiled binaries and installers
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+
+# Archives and release artifacts
+*.zip
+*.7z
+*.tar.gz
+/releases/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# IDE and OS caches
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Local clinical data, libraries, and runtime configuration (never commit patient scans or local paths)
+Casos/
+Librerias/
+libraries/
+LabCAD_Local/
+_demo_assets/
+settings.json
+portable.flag
+*.apexscene
