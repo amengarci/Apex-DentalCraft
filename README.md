@@ -24,15 +24,19 @@ The release includes both the full multi-stage CAD suite (`ApexDentalCraft.exe`)
 
 ### Current Features (`v0.3.0-alpha`)
 
-- **Case Management & Dental Orders**: Local case storage under `Casos/`, patient/doctor metadata, VITA shade presets, and 7 clinical CAD/CAM material presets (monolithic/multilayer zirconia, lithium disilicate `e.max`, milled PMMA, 3D printed resin, castable wax/resin, CoCr).
+- **Case Management & Dental Orders**: Local case storage under `Casos/`, patient/doctor metadata, VITA shade presets, and 7 clinical CAD/CAM material presets (monolithic/multilayer zirconia, lithium disilicate `e.max`, milled PMMA, 3D printed resin, castable wax/resin, CoCr).<img width="1867" height="1105" alt="image" src="https://github.com/user-attachments/assets/2e409b95-3537-44f1-9fa7-ade906d732a1" />
+
 - **Interactive FDI Odontogram**: Multi-unit order planning with individual crowns, veneers, inlays/onlays, copings, bridge abutments, bridge pontics, and inter-tooth connectors (`●`).
 - **Ultra-Fast 3D Mesh Viewer (`Apex 3D Viewer`)**: Instant loading of `.stl` (binary & ASCII), `.obj`, `.ply`, and `.apexscene` files/folders with independent layer opacities, quick scene presets, real-time wall-thickness/occlusal-distance/die-clearance/undercut/curvature maps, GPU cross-section plane, 3D distance ruler, 3-point angle goniometer, CAM watertightness audit, normal flipping, and PNG snapshot export.
 - **Model Trimmer & Printable Base Builder**: Multi-cut free trimming plane visible in OpenGL and printable base generator supporting both solid bases and **1–3 mm hollow bases** with manifold healing.
-- **Cervical Margin Line Tracing**: Magnetic snapping on prep dies, interactive control nodes (Left-Click to place/edit, Left+Right Click to delete), live undercut/collar validation, pontic margin bypass, and multi-unit greyed reference curves.
+- **Cervical Margin Line Tracing**: Magnetic snapping on prep dies, interactive control nodes (Left-Click to place/edit, Left+Right Click to delete), live undercut/collar validation, pontic margin bypass, and multi-unit greyed reference curves.<img width="1864" height="1101" alt="image" src="https://github.com/user-attachments/assets/905d2e4d-4ad1-45d5-b5f5-65d0f198c2a0" />
+
 - **Cement Space, Minimum Thickness & Marginal Bevel**: Configurable internal cement gap, ramp width, bur drill compensation, minimum wall thickness safety shell, and adjustable marginal bevel (width in mm and angle in degrees).
-- **CAD Placement, Occlusal/Proximal Adaptation & Sculpting**: Isotropic tooth library insertion (`LIBRERIA APEX DETAILED` procedural/custom STL support), 3D gizmo transforms, local morphing, smooth/add/subtract/pinch brushes, proximal/occlusal contact adaptation, and smart pontic-to-gingiva adaptation.
+- **CAD Placement, Occlusal/Proximal Adaptation & Sculpting**: Isotropic tooth library insertion (`LIBRERIA APEX DETAILED` procedural/custom STL support), 3D gizmo transforms, local morphing, smooth/add/subtract/pinch brushes, proximal/occlusal contact adaptation, and smart pontic-to-gingiva adaptation.<img width="1862" height="1097" alt="image" src="https://github.com/user-attachments/assets/8ad14606-9fca-4b40-9078-696e7786bc8b" />
+
 - **Bridges, Connectors & Final Bridge Sculpting**: Editable multi-node bridge connectors with live cross-section area readout ($\text{mm}^2$), crisp topological union preserving crown anatomy, and a dedicated final bridge sculpting pass before export.
-- **Self-Contained Export & Reopening**: One-click export into `<program_dir>/Casos/<case_id>/` generating the `.apexscene` file, designed restoration/bridge STLs, working die STL, antagonist STL, optional bite scan, and `.txt` lab sheet — reopenable from Module 1, drag-and-drop, or `Apex 3D Viewer`.
+- **Self-Contained Export & Reopening**: One-click export into `<program_dir>/Casos/<case_id>/` generating the `.apexscene` file, designed restoration/bridge STLs, working die STL, antagonist STL, optional bite scan, and `.txt` lab sheet — reopenable from Module 1, drag-and-drop, or `Apex 3D Viewer`.<img width="1870" height="1108" alt="image" src="https://github.com/user-attachments/assets/94b1dfbf-04c8-4eab-ad45-10b52e5b8f4c" />
+
 - **Multi-Language Support**: Full dental terminology in **English (default)**, **Spanish**, and **Portuguese** (configurable under `⚙ Settings`).
 
 ### Download
