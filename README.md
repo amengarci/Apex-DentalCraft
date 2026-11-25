@@ -4,7 +4,7 @@
 
 **Native Rust / OpenGL Dental CAD/CAM Suite & 3D Mesh Viewer (`v0.3.0-alpha`)**
 
-Ultra-fast · 100% Offline · Portable (~20 MB) · OpenGL 3.3 Core + `parry3d` BVH
+Ultra-fast · 100% Offline · Portable · OpenGL 3.3 Core + `parry3d` BVH
 
 [English](#english) · [Español](#español) · [Português](#português)
 
@@ -18,7 +18,7 @@ Ultra-fast · 100% Offline · Portable (~20 MB) · OpenGL 3.3 Core + `parry3d` B
 
 ### Overview
 
-**Apex DentalCraft** is a **100% native Rust / OpenGL** dental CAD/CAM design suite and 3D mesh viewer engineered for speed, low memory footprint, and completely **offline, portable operation (~20 MB)** with zero Python or heavy external runtime dependencies.
+**Apex DentalCraft** is a **100% native Rust / OpenGL** dental CAD/CAM design suite and 3D mesh viewer engineered for speed, low memory footprint, and completely **offline, portable operation** with zero Python or heavy external runtime dependencies.
 
 The release includes both the full multi-stage CAD suite (`ApexDentalCraft.exe`) and the standalone inspection utility (`Apex3DViewer.exe`), sharing a unified GPU rendering core and proprietary `.apexscene` project bundle format.
 
@@ -84,7 +84,7 @@ Licensed under the **GNU General Public License v3.0 (GPLv3)**. See the [LICENSE
 
 ### Descripción
 
-**Apex DentalCraft** es una suite CAD/CAM dental y visor de mallas 3D **100% nativo en Rust y OpenGL**, diseñado para ofrecer respuesta instantánea, bajo consumo de recursos y funcionamiento **completamente offline y portable (~20 MB)**, sin depender de Python ni librerías externas pesadas.
+**Apex DentalCraft** es una suite CAD/CAM dental y visor de mallas 3D **100% nativo en Rust y OpenGL**, diseñado para ofrecer respuesta instantánea, bajo consumo de recursos y funcionamiento **completamente offline y portable**, sin depender de Python ni librerías externas pesadas.
 
 Incluye el flujo completo de diseño protésico (`ApexDentalCraft.exe`) y el visor independiente (`Apex3DViewer.exe`), compartiendo el mismo motor OpenGL 3.3 Core y el formato propio de escena `.apexscene`.
 
@@ -138,7 +138,7 @@ Distribuido bajo la licencia **GNU General Public License v3.0 (GPLv3)**. Consul
 
 ### Visão Geral
 
-**Apex DentalCraft** é uma suíte CAD/CAM odontológica e visualizador de malhas 3D **100% nativo em Rust e OpenGL**, projetado para alto desempenho, funcionamento **totalmente offline e portátil (~20 MB)**, sem dependências pesadas de Python ou runtimes externos.
+**Apex DentalCraft** é uma suíte CAD/CAM odontológica e visualizador de malhas 3D **100% nativo em Rust e OpenGL**, projetado para alto desempenho, funcionamento **totalmente offline e portátil**, sem dependências pesadas de Python ou runtimes externos.
 
 ### Funcionalidades Atuais (`v0.3.0-alpha`)
 
